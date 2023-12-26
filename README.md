@@ -44,5 +44,6 @@ According to their decreasing order of frequency, the CEOs of NGO can invest mon
 
 ![image](https://github.com/KSN7630/Unsupervised-Learning-on-Country-Data-using-Machine-Learning/assets/120741965/f4caeef3-6027-469e-ae8f-b433000ccdef)
 
+![image](https://github.com/KSN7630/Global_Aid_Investment_Evaluator/assets/120741965/390741ab-7d3e-4005-9a5d-41ba577aa93b)
 
 
