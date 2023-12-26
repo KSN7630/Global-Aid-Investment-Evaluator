@@ -1,7 +1,7 @@
 # Global Aid Investment Evaluator: Data-Driven Funding Strategy
 Group Project - Kartik , Neel   
 
-Problem Statement-
+#Problem Statement-
 
 Categorize the countries using some socio-economic and health factors
 that determine the overall development of the country, to finally suggest the countries which the CEO
@@ -12,12 +12,16 @@ raise around $ 10 million. Now the CEO of the NGO needs to decide how to use thi
 strategically and effectively.
 
 
-Solution - 
+#Solution - 
+
+
 The CEO has to make a decision to choose the countries that are in
 the direst need of aid. In order to achieve this, we use multiple methods for clustering the data into
 the categories such as ‘Help needed’, ‘Might need help’ and ‘No help needed’.
 
-CONCLUSION
+#CONCLUSION
+
+
 1)We discarded the DBSCAN method, because it is not showing good results.
 2)Rest of the models are giving appropriate results that support each other.
 3)As it is difficult to discard other clustering methods ,We will use all other methods and maintain the frequency of occurrence of each country in the ‘Needy country’ cluster using Dictionary.
