@@ -18,4 +18,6 @@ the direst need of aid. In order to achieve this, we use multiple methods for cl
 the categories such as ‘Help needed’, ‘Might need help’ and ‘No help needed’.
 
 
-Read project report for better understanding
+<img src="[http://url/image.png](https://github.com/KSN7630/Unsupervised-Learning-on-Country-Data-using-Machine-Learning/assets/120741965/7292afc0-54c7-4fda-9326-892ac16b234d)https://github.com/KSN7630/Unsupervised-Learning-on-Country-Data-using-Machine-Learning/assets/120741965/7292afc0-54c7-4fda-9326-892ac16b234d" style=" width:60px ; height:60px "  >
+
+
