@@ -46,4 +46,6 @@ According to their decreasing order of frequency, the CEOs of NGO can invest mon
 
 ![image](https://github.com/KSN7630/Global_Aid_Investment_Evaluator/assets/120741965/390741ab-7d3e-4005-9a5d-41ba577aa93b)
 
+Above plot is of the geographical location of the needy countries on the world map. We see that
+most of the countries are from the African continent and are thus at a higher priority
 
