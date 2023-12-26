@@ -23,10 +23,20 @@ the categories such as ‘Help needed’, ‘Might need help’ and ‘No help n
 
 
 1)We discarded the DBSCAN method, because it is not showing good results.
+
+
 2)Rest of the models are giving appropriate results that support each other.
+
+
 3)As it is difficult to discard other clustering methods ,We will use all other methods and maintain the frequency of occurrence of each country in the ‘Needy country’ cluster using Dictionary.
+
+
 4)To remove anomalies in the model results, we are using a method similar to voting.
+
+
 5)We will use a threshold to remove the countries due to the anomalies in the model and place the countries in a sequence so that we know how to distribute our money.
+
+
 
 According to their decreasing order of frequency, the CEOs of NGO can invest money in the corresponding countries. 
 
