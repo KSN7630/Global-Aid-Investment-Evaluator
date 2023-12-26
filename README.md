@@ -17,7 +17,7 @@ The CEO has to make a decision to choose the countries that are in
 the direst need of aid. In order to achieve this, we use multiple methods for clustering the data into
 the categories such as ‘Help needed’, ‘Might need help’ and ‘No help needed’.
 
+![image](https://github.com/KSN7630/Unsupervised-Learning-on-Country-Data-using-Machine-Learning/assets/120741965/f4caeef3-6027-469e-ae8f-b433000ccdef)
 
-<img src="[http://url/image.png](https://github.com/KSN7630/Unsupervised-Learning-on-Country-Data-using-Machine-Learning/assets/120741965/7292afc0-54c7-4fda-9326-892ac16b234d)https://github.com/KSN7630/Unsupervised-Learning-on-Country-Data-using-Machine-Learning/assets/120741965/7292afc0-54c7-4fda-9326-892ac16b234d" style=" width:60px ; height:60px "  >
 
 
