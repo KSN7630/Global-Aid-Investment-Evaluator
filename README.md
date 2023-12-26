@@ -1,4 +1,4 @@
-# Unsupervised-Learning-on-Country-Data-using-Machine-Learning
+# Global Aid Investment Evaluator: Data-Driven Funding Strategy
 Group Project - Kartik , Neel   
 
 Problem Statement-
